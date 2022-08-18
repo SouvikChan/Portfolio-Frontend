@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Backend Link`
+Open [https://github.com/SouvikChan/Portfolio-Backend/tree/master/backend_sanity](https://github.com/SouvikChan/Portfolio-Backend/tree/master/backend_sanity) to view it in your browser.
+
 ### `npm start`
 
 Runs the app in the development mode.\
